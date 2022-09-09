@@ -1,0 +1,23 @@
+.song-container {
+
+    min-height: 24vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+    img{
+        padding-top: 3rem;
+        height: 20%;
+        width: 30%;
+        border-radius: 5px 5px 5px 5px;
+    }
+    h2{
+       padding: 3rem 1rem 1rem 1rem ; 
+       color: aliceblue;
+    }
+    h3{
+        font-size: 1rem;
+        color: aliceblue;
+    }
+}
